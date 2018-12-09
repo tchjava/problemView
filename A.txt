@@ -6,3 +6,4 @@ pppppppppppppppppppppppppppppppppppppp
 ppppppppppppppppppppppppppppppppppppppppp
 pppppppppppppppppppppppppppppppppppppppp
 在A的文件上添加了这句话，但是只是添加到了暂存区。
+我在主分支添加了这句话，然后合并dev1分支
